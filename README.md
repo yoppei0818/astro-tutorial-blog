@@ -1,5 +1,8 @@
 ## Astro Blog Tutorial
 
+### 使用技術
+Astro、microCMS、CloudFlare Pages
+
 ### 参考にした情報
 
 - https://blog.microcms.io/astro-microcms-introduction/
